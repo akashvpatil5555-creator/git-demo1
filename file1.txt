@@ -1,1 +1,2 @@
 file1 added to make changes
+fixing bugs
